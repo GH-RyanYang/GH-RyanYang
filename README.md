@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GH-RyanYang
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on hack
+- 💞️ I’m looking to collaborate on hacking
 - 📫 Wechat: iamryanyang
 
 <!---
